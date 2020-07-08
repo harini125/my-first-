@@ -1,2 +1,3 @@
-# my-first-
-My first account
+# maven-project
+
+Simple Maven Project
